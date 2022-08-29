@@ -44,7 +44,7 @@
   </dependencies>
 
   <build>
-    <finalName>auth-service</finalName>
+    <finalName>enhanced-junit5-parameterized-tests</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
